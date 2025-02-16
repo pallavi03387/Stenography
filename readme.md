@@ -72,10 +72,7 @@ image-steganography/
 - **NumPy** (for efficient image handling)
 - **Bootstrap** (for styling the interface)
 
-## 🔐 Security Note
-- This implementation is a basic proof of concept and **not suitable for high-security encryption**.
-- Avoid using sensitive data in the messages, as simple pixel manipulation is reversible.
-
+  
 ---
 **Happy Coding! 🎯**
 
