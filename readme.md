@@ -1,4 +1,4 @@
-# Image Steganography using Flask
+# Image Steganography
 
 ## 📌 Overview
 This project implements **Image Steganography** using **Flask and OpenCV**. It allows users to:
